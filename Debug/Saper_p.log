@@ -1,0 +1,10 @@
+﻿  Saper_p.cpp
+  game.cpp
+c:\users\pasha\source\repos\saper_p\saper_p\game.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\pasha\source\repos\saper_p\saper_p\game.cpp(85): warning C4101: Paint: неиспользованная локальная переменная
+  painter.cpp
+c:\users\pasha\source\repos\saper_p\saper_p\painter.cpp(169): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pasha\source\repos\saper_p\saper_p\painter.cpp(172): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pasha\source\repos\saper_p\saper_p\painter.cpp(175): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Saper_p.vcxproj -> C:\Users\pasha\source\repos\Saper_p\Debug\Saper_p.exe
